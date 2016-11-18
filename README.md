@@ -7,6 +7,8 @@ This was my third project for WDI London
 ###Introduction
 This app by a team of four people over six days and was the third of four projects during our time on the Web Development Immersive course at General Assembly, London.
 The requirements of this project were to build an authenticated RESTful MEAN stack application.
+A hosted version of **Salvy McMeme Face** can be found [here] (https://good-vibe-ratings.herokuapp.com/)
+The code can be viewed [here] (https://github.com/BRHGreen/wdi-project-3)
 
 ###The App
 **Vibes** is an online application which allows users to benefit from each others' expertise and altruistic disposition. It is essentially a skills exchange forum. Each user is able to ask the community for help with a specific task and each user is able to choose whether or not they want to offer help with any specific task.    
